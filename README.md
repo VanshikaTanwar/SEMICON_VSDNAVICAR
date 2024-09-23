@@ -231,3 +231,16 @@ https://drive.google.com/file/d/1VoYM0Dw4-xRLTiy9zCtznBR6Xd3ewQOk/view?usp=shari
 
 # Conclusion
 - In conclusion, the NaviCar powered by the VSDSquadron Mini demonstrates the capabilities of advanced Bluetooth-controlled, obstacle-avoiding technology, offering practical applications across diverse fields. Its user-friendly mobile interface allows seamless wireless control, making it highly versatile for use in the medical field, traffic management, and warehousing. The integration of the UART protocol ensures reliable communication, enhancing the car's efficiency and safety. This project showcases the potential of automation and intelligent navigation in solving real-world challenges efficiently.
+
+
+
+## Acknowledgement
+
+- [Kunal Ghosh](https://github.com/kunalg123), Founder, VSD Corp. Pvt. Ltd
+
+## Author
+
+- [Rajashekhar Kuntala] (.                            ), Bachelor of Technology in Electronics &Communication Engineering , 
+- [Vanshika Tanwar](https://github.com/vanishka-tanwar), Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
+
+ 
