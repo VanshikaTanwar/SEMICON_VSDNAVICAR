@@ -16,6 +16,7 @@ TEAM VSD SAFE VISIONARIES
 - [Image of the SEMICON_VSDNAVICAR](#Image-of-the-SEMICON-VSDNAVICAR)
 - [Demonstration Video of the SEMICON_VSDNAVICAR](#Demonstration-Video-of-the-VSDNAVICAR)
 - [Conclusion](#Conclusion)
+- [Representation of VSDNAVICAR at SEMICON INDIA Event 2024](#Representation-of-VSDNAVICAR-at-SEMICON-INDIA-Event-2024)
 - [Acknowledgement](#Acknowledgement)
 - [Author](#Author)
 # Introduction to the VSDSquadron Mini 
