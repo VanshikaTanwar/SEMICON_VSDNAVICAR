@@ -11,7 +11,7 @@ TEAM VSD SAFE VISIONARIES
 - [Introduction to the VSDNAVICAR](#Introduction-to-the-VSDNAVICAR)
 - [Table of Connections of the circuit](#Table-of-Connections-of-the-circuit)
 - [Source code of Arduino IDE with comments](#Source-code-of-Arduino-IDE-with-comments)
-- [Image of the SEMICON_VSDNAVICAR](#Image-of-the-VSDNAVICAR)
+- [Image of the SEMICON_VSDNAVICAR](#Image-of-the-SEMICON-VSDNAVICAR)
 - [Demonstration Video of the SEMICON_VSDNAVICAR](#Demonstration-Video-of-the-VSDNAVICAR)
 - [Conclusion](#Conclusion)
 - [Acknowledgement](#Acknowledgement)
