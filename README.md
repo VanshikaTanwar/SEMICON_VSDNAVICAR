@@ -236,8 +236,8 @@ https://drive.google.com/file/d/1VoYM0Dw4-xRLTiy9zCtznBR6Xd3ewQOk/view?usp=shari
 
 
 ## Acknowledgement
-
-- [Kunal Ghosh](https://github.com/kunalg123), Founder, VSD Corp. Pvt. Ltd
+- [Anagha Ghosh](https://github.com/kunalg123), Founder, VSD Corp. Pvt. Ltd
+- [Kunal Ghosh](https://github.com/kunalg123), Co-Founder, VSD Corp. Pvt. Ltd
 
 ## Author
 
