@@ -14,7 +14,8 @@ TEAM VSD SAFE VISIONARIES
 - [Image of the VSDNAVICAR](#Image-of-the-VSDNAVICAR)
 - [Demonstration Video of the VSDNAVICAR](#Demonstration-Video-of-the-VSDNAVICAR)
 - [Conclusion](#Conclusion)
-
+- [Acknowledgement](#Acknowledgement)
+- [Author](#Author)
 # Introduction to the VSDSquadron Mini 
 The VSDSquadron Mini, a versatile powerhouse within the RISC-V landscape that elevates Your development to new heights. Whether you’re a newcomer delving into the realm of embedded systems or an experienced developer crafting intricate device, the VSDSquadron Mini is your ideal companion. It seamlessly bridges the gap between theory and practical application, offering an on-board flash programmer with single-wire programming protocol to jumpstart your projects in education and development with proficiency and ease.
 
