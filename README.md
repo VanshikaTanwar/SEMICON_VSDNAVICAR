@@ -265,7 +265,7 @@ void stopCar() {
 
 # Representation of VSDNAVICAR at SEMICON INDIA Event 2024 
 
-Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2024, held in IEML Expo Mart ,Greater Noida ,Uttar Pradesh .
+Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMICON INDIA 2024, held in IEML Expo Mart ,Greater Noida ,Uttar Pradesh .
 
 ![IMG20240912132150](https://github.com/user-attachments/assets/d358d3f2-3167-49ab-8824-42b12744de06)
 
@@ -281,7 +281,7 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 
 
 
-Here, are some of the other Memorable Glimpse with the VSD Team at the SEMICON INDIA Event 2024 ....
+#### Here, are some of the other Memorable Glimpse with the VSD Team at the SEMICON INDIA Event 2024 ....
 
 
 ![ss10](https://github.com/user-attachments/assets/1b85d98c-5a2b-4295-a6a2-0910ad388781)
