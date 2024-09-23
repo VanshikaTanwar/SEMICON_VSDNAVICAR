@@ -1,4 +1,6 @@
-# SEMICON_ VSDNAVICAR
+# VSD_SEMICON2024-VSDNAVICAR
+VSD NAVICAR made using VSDQUADRON RISCV MINI Board . Presented at SEMICON INDIA 2024 
+
 ***The SEMICON_VSDNaviCar, Powered by the VSDSquadron Mini***
 ***“Avoid the Unseen ,the future of mobility”***
 
@@ -261,7 +263,10 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 
 ![IMG20240912132150](https://github.com/user-attachments/assets/d358d3f2-3167-49ab-8824-42b12744de06)
 
-![IMG20240912120804](https://github.com/user-attachments/assets/ea94b88e-7835-4951-bbc3-28b14ae6447f)
+
+
+![ss9](https://github.com/user-attachments/assets/6ba0fccc-ce77-47c8-bf47-d4caae206981)
+
 
 
 ![ss2](https://github.com/user-attachments/assets/a868a0bb-b81e-491e-9174-ae1d21c9332b)
@@ -272,9 +277,21 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 
 Here, are some of the other Memorable Glimpse with the VSD Team at the SEMICON INDIA Event 2024 ....
 
+
+![ss10](https://github.com/user-attachments/assets/1b85d98c-5a2b-4295-a6a2-0910ad388781)
+
+
+![ss11](https://github.com/user-attachments/assets/4e7d4e2b-36e8-4892-bc9e-008614a46d30)
+
+
 ![ss5](https://github.com/user-attachments/assets/ed896e7c-7bae-47b4-b183-c874e5c34097)
 
 ![ss1](https://github.com/user-attachments/assets/d9396582-7133-4298-94b9-810223f5772b)
+
+
+![ss8](https://github.com/user-attachments/assets/f9ce7a15-8b94-4f1e-91a7-2188514ff391)
+
+
 
 
 
@@ -284,7 +301,8 @@ https://github.com/user-attachments/assets/8b3b3826-3a0f-4d5a-9a5e-8d52eb4473f4
 
 
 
-![ss4](https://github.com/user-attachments/assets/b184b4ac-7fb7-4384-a73a-50159208ffd9)
+![ss7](https://github.com/user-attachments/assets/d40fec5e-f184-4c6a-af6e-ec1532eb628d)
+
 
 
 
@@ -294,7 +312,8 @@ https://github.com/user-attachments/assets/8b3b3826-3a0f-4d5a-9a5e-8d52eb4473f4
 
 ## Author
 
-- [Rajashekhar Kanukuntla](https://github.com/RAJASHEKHAR-KANUKUNTLA), Bachelor of Technology in Electronics &Communication Engineering , University College Of Engineering Kakatiya University, kothagudem,Telangana.
+
 - [Vanshika Tanwar](https://github.com/VanshikaTanwar), Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
+- [Rajashekhar Kanukuntla](https://github.com/RAJASHEKHAR-KANUKUNTLA), Bachelor of Technology in Electronics &Communication Engineering , University College Of Engineering Kakatiya University, kothagudem,Telangana.
 
  
