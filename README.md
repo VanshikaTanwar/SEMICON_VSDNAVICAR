@@ -236,10 +236,14 @@ void stopCar() {
 
 # Representation of VSDNAVICAR at SEMICON INDIA Event 2024 
 
-Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2024 , held in IEML Expo Mart ,Greater Noida ,Uttar Pradesh .
+Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2024, held in IEML Expo Mart ,Greater Noida ,Uttar Pradesh .
+
+![IMG20240912132150](https://github.com/user-attachments/assets/d358d3f2-3167-49ab-8824-42b12744de06)
+
+![IMG20240912120804](https://github.com/user-attachments/assets/ea94b88e-7835-4951-bbc3-28b14ae6447f)
 
 
-This Navi Car has veen made using VSDQUADRON MINI Board based on 28nm Technology.
+This Navi Car has Been made using VSDQUADRON MINI Board based on 28nm Technology.
 Here, are some of the Memorable Glimpse Of the Semicon INIDA Event 2024 ..
 
 
