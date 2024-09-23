@@ -1,6 +1,19 @@
 # VSDNAVICAR
 ***The NaviCar, Powered by the VSDSquadron Mini***
+***“Avoid the Unseen ,the future of mobility”***
 
+TEAM VSD SAFE VISIONARIES
+
+
+# Table of the Content
+-[Introduction to the VSDSquadron Mini](#Introduction-to-the-VSDSquadron-Mini)
+-[Key Features of the VSDSquadron Mini](#Key-Features-of-the-VSDSquadron-Mini)
+-[Introduction to the VSDNAVICAR](#Introduction-to-the-VSDNAVICAR)
+-[Table of Connections of the circuit](#Table-of-Connections-of-the-circuit)
+-[Source code of Arduino IDE with comments](#Source-code-of-Arduino-IDE-with-comments)
+-[Image of the VSDNAVICAR](#Image-of-the-VSDNAVICAR)
+-[Demonstration Video of the VSDNAVICAR](#Demonstration-Video-of-the-VSDNAVICAR)
+- [Conclusion](#Conclusion)
 
 # Introduction to the VSDSquadron Mini 
 The VSDSquadron Mini, a versatile powerhouse within the RISC-V landscape that elevates Your development to new heights. Whether you’re a newcomer delving into the realm of embedded systems or an experienced developer crafting intricate device, the VSDSquadron Mini is your ideal companion. It seamlessly bridges the gap between theory and practical application, offering an on-board flash programmer with single-wire programming protocol to jumpstart your projects in education and development with proficiency and ease.
@@ -72,7 +85,7 @@ The UART (Universal Asynchronous Receiver-Transmitter) protocol is a widely used
 |POWER | VCC| 5V|
 |POWER |GND| GND|
 
-# Source code of Arduino iot cloud for ESP32 with comments 
+# Source code of Arduino IDE with comments 
 ``` c++
 #define BLUETOOTH_RX_PIN PD6  // Onboard RX pin (Bluetooth)
 #define BLUETOOTH_TX_PIN PD7  // Onboard TX pin (Bluetooth)
