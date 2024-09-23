@@ -264,16 +264,27 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 ![IMG20240912120804](https://github.com/user-attachments/assets/ea94b88e-7835-4951-bbc3-28b14ae6447f)
 
 
+![ss2](https://github.com/user-attachments/assets/a868a0bb-b81e-491e-9174-ae1d21c9332b)
+
+![ss3](https://github.com/user-attachments/assets/435429bb-ca59-4dc8-abd5-9d76cdb353f4)
+
+
 This Navi Car has Been made using VSDQUADRON MINI Board based on 28nm Technology.
-Here, are some of the Memorable Glimpse Of the Semicon INIDA Event 2024 ..
+Here, are some of the Memorable Glimpse Of the Semicon INIDA Event 2024 ....
 
+![ss5](https://github.com/user-attachments/assets/ed896e7c-7bae-47b4-b183-c874e5c34097)
 
+![ss1](https://github.com/user-attachments/assets/d9396582-7133-4298-94b9-810223f5772b)
 
 
 
 
 
 https://github.com/user-attachments/assets/8b3b3826-3a0f-4d5a-9a5e-8d52eb4473f4
+
+
+
+![ss4](https://github.com/user-attachments/assets/b184b4ac-7fb7-4384-a73a-50159208ffd9)
 
 
 
@@ -284,6 +295,6 @@ https://github.com/user-attachments/assets/8b3b3826-3a0f-4d5a-9a5e-8d52eb4473f4
 ## Author
 
 - [Rajashekhar Kanukuntla](https://github.com/RAJASHEKHAR-KANUKUNTLA), Bachelor of Technology in Electronics &Communication Engineering , University College Of Engineering Kakatiya University, kothagudem,Telangana.
-- [Vanshika Tanwar](https://github.com/vanishka-tanwar), Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
+- [Vanshika Tanwar](https://github.com/VanshikaTanwar), Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
 
  
