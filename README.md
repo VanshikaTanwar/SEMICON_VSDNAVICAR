@@ -252,6 +252,10 @@ Here, are some of the Memorable Glimpse Of the Semicon INIDA Event 2024 ..
 
 
 
+https://github.com/user-attachments/assets/8b3b3826-3a0f-4d5a-9a5e-8d52eb4473f4
+
+
+
 ## Acknowledgement
 - [Anagha Ghosh](https://github.com/vsdip), Founder, VSD Corp. Pvt. Ltd
 - [Kunal Ghosh](https://github.com/kunalg123), Co-Founder, VSD Corp. Pvt. Ltd
