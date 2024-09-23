@@ -269,8 +269,8 @@ Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2
 ![ss3](https://github.com/user-attachments/assets/435429bb-ca59-4dc8-abd5-9d76cdb353f4)
 
 
-This Navi Car has Been made using VSDQUADRON MINI Board based on 28nm Technology.
-Here, are some of the Memorable Glimpse Of the Semicon INIDA Event 2024 ....
+
+Here, are some of the other Memorable Glimpse with the VSD Team at the SEMICON INDIA Event 2024 ....
 
 ![ss5](https://github.com/user-attachments/assets/ed896e7c-7bae-47b4-b183-c874e5c34097)
 
