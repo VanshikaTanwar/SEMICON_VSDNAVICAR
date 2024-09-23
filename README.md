@@ -22,6 +22,11 @@ TEAM VSD SAFE VISIONARIES
 # Introduction to the VSDSquadron Mini 
 The VSDSquadron Mini, is a mini board which is powered by RISCV 32 bit instruction set that elevates the development of the the board to a open source community and give it a new heights in the field of semiconductorIndustry . Whether you’re a new to this board or any experienced person will come to use this board who knows about RISC-V , he/she will be able to program and use this board easily which gives them the real exposure of the embedded system as well as the exposure to real world applications. The VSDSquadron Mini is your ideal companion, of Arduino UNO which is based on 28nm technology and it seamlessly bridges the gap between theory and practical application problems of the real world, offering an on-board flash programmer with single-wire programming protocol to jumpstart your projects in education and development with proficiency and ease with flexibility to powered it with c-type cable.
 
+
+![vsdquadron mini](https://github.com/user-attachments/assets/8a530c0b-33b5-4ae6-a46f-1c009003b58a)
+
+
+
 # Key Features of the VSDSquadron Mini 
 
 **Core Processor**
