@@ -6,13 +6,13 @@ TEAM VSD SAFE VISIONARIES
 
 
 # Table of the Content
--[Introduction to the VSDSquadron Mini](#Introduction-to-the-VSDSquadron-Mini)
--[Key Features of the VSDSquadron Mini](#Key-Features-of-the-VSDSquadron-Mini)
--[Introduction to the VSDNAVICAR](#Introduction-to-the-VSDNAVICAR)
--[Table of Connections of the circuit](#Table-of-Connections-of-the-circuit)
--[Source code of Arduino IDE with comments](#Source-code-of-Arduino-IDE-with-comments)
--[Image of the VSDNAVICAR](#Image-of-the-VSDNAVICAR)
--[Demonstration Video of the VSDNAVICAR](#Demonstration-Video-of-the-VSDNAVICAR)
+- [Introduction to the VSDSquadron Mini](#Introduction-to-the-VSDSquadron-Mini)
+- [Key Features of the VSDSquadron Mini](#Key-Features-of-the-VSDSquadron-Mini)
+- [Introduction to the VSDNAVICAR](#Introduction-to-the-VSDNAVICAR)
+- [Table of Connections of the circuit](#Table-of-Connections-of-the-circuit)
+- [Source code of Arduino IDE with comments](#Source-code-of-Arduino-IDE-with-comments)
+- [Image of the VSDNAVICAR](#Image-of-the-VSDNAVICAR)
+- [Demonstration Video of the VSDNAVICAR](#Demonstration-Video-of-the-VSDNAVICAR)
 - [Conclusion](#Conclusion)
 
 # Introduction to the VSDSquadron Mini 
