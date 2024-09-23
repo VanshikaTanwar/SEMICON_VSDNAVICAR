@@ -240,7 +240,7 @@ https://drive.google.com/file/d/1VoYM0Dw4-xRLTiy9zCtznBR6Xd3ewQOk/view?usp=shari
 
 ## Author
 
-- [Rajashekhar Kuntala] (.                            ), Bachelor of Technology in Electronics &Communication Engineering , 
+- [Rajashekhar Kanukuntla](https://github.com/RAJASHEKHAR-KANUKUNTLA), Bachelor of Technology in Electronics &Communication Engineering , University College Of Engineering Kakatiya University,kothagudem,Telangana.
 - [Vanshika Tanwar](https://github.com/vanishka-tanwar), Bachelor of Technology in Electronics & Communication Engineering,Dronacharya Group of Institutions,Greater Noida, U.P.
 
  
