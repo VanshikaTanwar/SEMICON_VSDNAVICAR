@@ -72,7 +72,7 @@ The Board specifications in the table format is given below:-
 
 # Introduction to the VSDNAVICAR
 
-The NaviCar has been named as NaviCar because it's a combination of 2 names Navigating + Car + Navi Car , which means it's Navigating the obstacle automatically and hence changes , its diurection either left or right in the forward motion accordingly whenever any obstacle come in front of it  and it also buzzes whenever any obstacle or hindrance come in front of it. 
+The NaviCar has been named as NaviCar because it's a combination of 2 names Navigating + Car = Navi Car , which means it's Navigating the obstacle automatically and hence changes , its diurection either left or right in the forward motion accordingly whenever any obstacle come in front of it  and it also buzzes whenever any obstacle or hindrance come in front of it. 
 
 ### NAVICAR - Avoid the unseen , the Future of Mobility ###
 
