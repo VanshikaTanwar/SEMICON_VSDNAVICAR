@@ -72,11 +72,28 @@ The Board specifications in the table format is given below:-
 
 # Introduction to the VSDNAVICAR
 
-The NaviCar, powered by the VSDSquadron Mini board, is a cutting-edge vehicle designed for multiple applications. This car has been Equipped with Bluetooth control Module and obstacle avoidance which is equipped with 2 IR sensors as well as buzzer , it can navigate autonomously whenever any obstacle come in front of it while ensuring safety as well as, the buzzer is used. In hospitals, it can transport medicines, reducing human contact and speeding up delivery. On the road, it detects and avoids obstacles, preventing traffic accidents. In warehouses, NaviCar can automate material transport, increasing efficiency and reducing the risk of damage. This smart vehicle offers a blend of precision, safety, and automation across various sectors.
+The NaviCar has been named as NaviCar because it's a combination of 2 names Navigating + Car + Navi Car , which means it's Navigating the obstacle automatically and hence changes , its diurection either left or right in the forward motion accordingly whenever any obstacle come in front of it  and it also buzzes whenever any obstacle or hindrance come in front of it. 
 
-The UART (Universal Asynchronous Receiver-Transmitter) protocol is a widely used serial communication standard in embedded systems, in the NaviCar powered by VSDSquadron Mini. It enables data transmission between devices by converting parallel data to serial form and vice versa. UART communication involves two wires: TX (transmit) and RX (receive). The data is transferred asynchronously, meaning no clock signal is required, and both devices must agree on a common baud rate. UART is ideal for Bluetooth modules in NaviCar, ensuring reliable wireless control.
+### NAVICAR - Avoid the unseen , the Future of Mobility ###
 
-# Table of Connections of the circuit 
+The NaviCar, powered by the VSDSquadron Mini board, is a cutting-edge vehicle designed for multiple applications. This car has been Equipped with Bluetooth control Module and obstacle avoidance which is equipped with 2 IR sensors as well as buzzer , it can navigate autonomously whenever any obstacle come in front of it while ensuring safety as well as, the buzzer is used. 
+
+## Applications of VSDNaviCar
+
+Meet Our Navicar; it Concisely Addresses in many Areas , In hospitals, it can be used for transporting medicines which limits human interaction as well as enhances the rate of delivery. It recognizes as well as circumvents hindrances or obstacles while traveling on road, hence preventing any potential road accidents. In warehouses, NaviCar can assist in the transportation of materials from the maximizing productivity and minimizing the eradication of such materials to wear and tear. This smart vehicle offers a kind of precision, safety and automation in all areas. This will also help to any person with disability who are on wheelchair and cannot able to walk so, they can control this car by their phone by connecting it with their phone with bluetooth and can send it for bringing medicines from another room, or if the same person needs any other thing he/she will get the other things by sitting only at one place . Hence, our NaviCar is providing the versatile assistance to those as well who are in need by avoiding all obstacles in between.
+
+## Working of NaviCar with VSDQUADRON MINI BOARD
+
+VSDQUADRON RISCV MINI BOARD is the main brain/CPU of the NaviCar which is providing power and all the communication and flexibility for controlling the car with bluetooth, providing power to IR sensor and buzzer as well .
+
+The UART (Universal Asynchronous Receiver-Transmitter) is a widely used serial communication protocol in embedded systems. In the NaviCar which is powered by VSDSquadron Mini, this protocol has been used to provide serial communication between the bluetooth module and vsdquadron mini board. Hence, it enables data transmission between devices by converting parallel data to serial form and vice versa. UART communication is constituted by two wire connections: the TX wire and the RX wire. The transmission of the data is done in an asynchronous manner which means that there is no clock signal to be used although there is a common baud rate which both devices must comply to. It is made sure that the use of the UART in the Bluetooth modules within the NaviCar enables the applications to safely control devices wirelessly.
+
+In an IR sensor, there is an IR LED that emits infrared light to detect obstacles. If there is an obstacle, the beam of light is reflected back to the receiving part of the sensor (photodiode), which creates the signal. If however there is no obstacle, the IR light does not in any way reflect back thus no signal is created. 
+In NaviCar , as soon as obstacle is detected , the beam of the light will reflects back to the receiver which gets receiving signal  , and hence, it creates a signal which is sent to the buzzer , the buzzer starts buzzing indicating that there is any obstacle come in between , and when from the remote control or from our phone we take back or chnages the direction of NaviCar to the right or left or obstacle is removed in front of the car, buzzer automatically stops buzzing indicating that there, is no obstacle now, and the way is clean Navicar can go further. 
+
+Other than this, Motor driver has also been used in this for providing power and controlling motors of the tyres of the NaviCar. This Car can also be controlled with chargeable as well as with Rechargeable batteries dependinng as per the user requirements.
+
+# Circuit Connections with VSDQUADRON RISCV Mini Board with all the components  
 
 | **Component**           | **Pin/Connection with RISCV Mini**             | **Connected To MINI**              |
 |-------------------------|--------------------------------|-------------------------------|
@@ -230,10 +247,12 @@ void stopCar() {
 
 [Demo video](https://drive.google.com/file/d/1VoYM0Dw4-xRLTiy9zCtznBR6Xd3ewQOk/view?usp=sharing)
 
-- The NaviCar demonstration highlights its seamless integration with the VSDSquadron Mini board, offering easy Bluetooth connectivity through a mobile interface. The user-friendly app allows you to control the car wirelessly, with precise commands. The car is equipped with obstacle avoidance technology, ensuring it halts when facing obstacles while other directions, like reverse or turns, can still be activated. This makes it particularly useful in the medical field for delivering supplies, in traffic management to avoid collisions, and in warehouses for safe material handling.
+- The NaviCar demonstration showcases its smooth integration with the VSDSquadron Mini board, providing effortless Bluetooth connectivity via a mobile interface. Through the user-friendly app, you can wirelessly maneuver the car with precise commands. The car comes with obstacle avoidance technology, ensuring it stops in front of obstacles while still allowing activation of reverse or turning in other directions. This feature makes it especially valuable in the medical field for supply delivery, in traffic management to prevent accidents, and in warehouses for secure material handling.
+
 
 # Conclusion
-- In conclusion, the NaviCar powered by the VSDSquadron Mini demonstrates the capabilities of advanced Bluetooth-controlled, obstacle-avoiding technology, offering practical applications across diverse fields. Its user-friendly mobile interface allows seamless wireless control, making it highly versatile for use in the medical field, traffic management, and warehousing. The integration of the UART protocol ensures reliable communication, enhancing the car's efficiency and safety. This project showcases the potential of automation and intelligent navigation in solving real-world challenges efficiently.
+- In conclusion,the NaviCar, powered by the VSDSquadron RISCV Mini, illustrates the capabilities of advanced Bluetooth-controlled, obstacle-avoiding technology, offering practical applications across various fields. Itsproviding user-friendly mobile interface which allows seamless wireless control, making it highly adaptable for use in the medical field, traffic management, and warehousing. The integration of the UART protocol ensures dependable communication, enhancing the car's efficiency and safety.Similarly, the integration of IR sensor with buzzer an dmotor drivers providing it enhanced capability and efficiency for safety purpose. This project demonstrates the potential of automation and intelligent navigation in efficiently addressing real-world challenges.
+
 
 
 # Representation of VSDNAVICAR at SEMICON INDIA Event 2024 
