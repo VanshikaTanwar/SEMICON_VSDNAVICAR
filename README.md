@@ -234,13 +234,13 @@ void stopCar() {
 - In conclusion, the NaviCar powered by the VSDSquadron Mini demonstrates the capabilities of advanced Bluetooth-controlled, obstacle-avoiding technology, offering practical applications across diverse fields. Its user-friendly mobile interface allows seamless wireless control, making it highly versatile for use in the medical field, traffic management, and warehousing. The integration of the UART protocol ensures reliable communication, enhancing the car's efficiency and safety. This project showcases the potential of automation and intelligent navigation in solving real-world challenges efficiently.
 
 
-# Representation of VSDNAVICAR at SEMICON Event 2024 
+# Representation of VSDNAVICAR at SEMICON INDIA Event 2024 
 
 Here, are some of the glimpses of our VSDNAVICAR which is presented at SEMJCON 2024 , held in IEML Expo Mart ,Greater Noida ,Uttar Pradesh .
 
 
 This Navi Car has veen made using VSDQUADRON MINI Board based on 28nm Technology.
-Here, are some of the Memorable Glimpse....of it at Semicon 2024 ..
+Here, are some of the Memorable Glimpse Of the Semicon INIDA Event 2024 ..
 
 
 
