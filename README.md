@@ -255,7 +255,7 @@ void stopCar() {
 
 [Demo video](https://drive.google.com/file/d/1VoYM0Dw4-xRLTiy9zCtznBR6Xd3ewQOk/view?usp=sharing)
 
-- The NaviCar demonstration showcases its smooth integration with the VSDSquadron Mini board, providing effortless Bluetooth connectivity via a mobile interface. Through the user-friendly app, you can wirelessly maneuver the car with precise commands. The car comes with obstacle avoidance technology, ensuring it stops in front of obstacles while still allowing activation of reverse or turning in other directions. This feature makes it especially valuable in the medical field for supply delivery, in traffic management to prevent accidents, and in warehouses for secure material handling.
+- The NaviCar demonstration showcases its smooth integration with the VSDSquadron Mini board, providing effortless Bluetooth connectivity via a mobile interfacing hence, we can control it from anywhere, till bluetooth range. With the user-friendly app, one can wirelessly control the car by giving precise commands. The car comes with obstacle avoidance technology,as IR sensor are used for this purpose, ensuring it stops in front of obstacles while still allowing activation of reverse or turning in other directions . This feature makes it especially valuable in the field of medical industry for supply delivery of medicines, in traffic management for accident prevention, and in warehouses for securing material handling.
 
 
 # Conclusion
